@@ -1,0 +1,3 @@
+Python File Handling Project
+This is a sample text file.
+File handling is useful for automation.
